@@ -1,0 +1,48 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.head{
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    background-color:#f2f7f7;
+    left: 300px;
+    top: 120px;
+    border-radius: 10px;
+    -webkit-box-shadow: -1px 3px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -1px 3px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: -1px 3px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.img{
+    position: absolute;
+    width: 400px;
+    left: 100px;
+    top: 120px;
+    border-radius: 10px;
+}
+.table{
+    position: absolute;
+    width: 580px;
+    top: 373px;
+    border-radius: 10px;
+    
+}
+.img1{
+    position: absolute;
+    width: 400px;
+    right: 17%;
+    bottom: 100px;
+}
+.btn{
+    position: absolute;
+    top: 70px;
+    right: 43%;
+}
+.text{
+    position: absolute;
+    top: 20px;  
+    right: 400px; 
+}
+
+
